@@ -1,0 +1,9 @@
+.card {
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+}
+
+button {
+    color: var(--body-text-color);
+    background-color: var(--primary-color);
+}
